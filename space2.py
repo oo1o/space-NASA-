@@ -12,7 +12,7 @@ logo = f"""
 | |\  | (_| | |_) | | (_) | | | |
 |_| \_|\__,_| .__/|_|\___/|_| |_|
             | | instagram: 3h6h                 
-            |_| snap: tv-of       
+            |_| snap: ii42       
             
 Performance characteristics - It tells you how many astronauts are currently🧑‍🚀, the name of each person - the current location of the International Space Station📍- and the transit times of the space station🕔
 ----------------------------------
